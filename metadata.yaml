@@ -1,0 +1,73 @@
+_repo: Handbook-of-Home-Rule--Being-Articles-on-the-Irish-Question_14518
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Bryce, James Bryce, Viscount
+    alias: Bryce, Viscount
+    birthdate: &id001 1838
+    deathdate: 1922
+    gutenberg_agent_id: '1191'
+    url: http://www.gutenberg.org/2009/agents/1191
+    wikipedia: http://en.wikipedia.org/wiki/James_Bryce,_1st_Viscount_Bryce
+  - agent_name: Godkin, Edwin Lawrence
+    alias: Godkin, Lawrence
+    birthdate: &id002 1831
+    deathdate: 1902
+    gutenberg_agent_id: '2396'
+    url: http://www.gutenberg.org/2009/agents/2396
+    wikipedia: http://en.wikipedia.org/wiki/Edwin_Lawrence_Godkin
+  - agent_name: Gladstone, W. E. (William Ewart)
+    aliases:
+    - Gladstone, William Ewart
+    - Gladstone, William E. (William Ewart)
+    birthdate: 1809
+    deathdate: 1898
+    gutenberg_agent_id: '1195'
+    url: http://www.gutenberg.org/2009/agents/1195
+    wikipedia: http://en.wikipedia.org/wiki/William_Ewart_Gladstone
+  - agent_name: Thring, Henry Thring, Baron
+    alias: Thring, Lord
+    birthdate: 1818
+    deathdate: &id003 1907
+    gutenberg_agent_id: '6272'
+    url: http://www.gutenberg.org/2009/agents/6272
+  - agent_name: Morley, John
+    alias: Morley, Viscount
+    birthdate: *id001
+    deathdate: 1923
+    gutenberg_agent_id: '3767'
+    url: http://www.gutenberg.org/2009/agents/3767
+    wikipedia: http://en.wikipedia.org/wiki/John_Morley,_1st_Viscount_Morley_of_Blackburn
+  - agent_name: MacColl, Malcolm
+    alias: Scrutator
+    birthdate: *id002
+    deathdate: *id003
+    gutenberg_agent_id: '6273'
+    url: http://www.gutenberg.org/2009/agents/6273
+  - agent_name: O'Brien, R. Barry (Richard Barry)
+    aliases:
+    - Historicus
+    - O'Brien, Richard Barry
+    birthdate: 1847
+    deathdate: 1918
+    gutenberg_agent_id: '6274'
+    url: http://www.gutenberg.org/2009/agents/6274
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2004-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Politics and government -- 1837-1901'
+- !lcsh 'Irish question'
+- !lcsh 'Home rule -- Ireland'
+- !lcc 'DA'
+title: 'Handbook of Home Rule: Being Articles on the Irish Question'
+url: http://www.gutenberg.org/ebooks/14518
