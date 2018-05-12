@@ -4,14 +4,14 @@ contributor:
   contributors:
   - agent_name: Bryce, James Bryce, Viscount
     alias: Bryce, Viscount
-    birthdate: &id001 1838
+    birthdate: 1838
     deathdate: 1922
     gutenberg_agent_id: '1191'
     url: http://www.gutenberg.org/2009/agents/1191
     wikipedia: http://en.wikipedia.org/wiki/James_Bryce,_1st_Viscount_Bryce
   - agent_name: Godkin, Edwin Lawrence
     alias: Godkin, Lawrence
-    birthdate: &id002 1831
+    birthdate: 1831
     deathdate: 1902
     gutenberg_agent_id: '2396'
     url: http://www.gutenberg.org/2009/agents/2396
@@ -28,20 +28,20 @@ contributor:
   - agent_name: Thring, Henry Thring, Baron
     alias: Thring, Lord
     birthdate: 1818
-    deathdate: &id003 1907
+    deathdate: 1907
     gutenberg_agent_id: '6272'
     url: http://www.gutenberg.org/2009/agents/6272
   - agent_name: Morley, John
     alias: Morley, Viscount
-    birthdate: *id001
+    birthdate: 1838
     deathdate: 1923
     gutenberg_agent_id: '3767'
     url: http://www.gutenberg.org/2009/agents/3767
     wikipedia: http://en.wikipedia.org/wiki/John_Morley,_1st_Viscount_Morley_of_Blackburn
   - agent_name: MacColl, Malcolm
     alias: Scrutator
-    birthdate: *id002
-    deathdate: *id003
+    birthdate: 1831
+    deathdate: 1907
     gutenberg_agent_id: '6273'
     url: http://www.gutenberg.org/2009/agents/6273
   - agent_name: O'Brien, R. Barry (Richard Barry)
@@ -56,6 +56,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14518#Handbook-of-Home-Rule--Being-Articles-on-the-Irish-Question
 gutenberg_issued: '2004-12-29'
 gutenberg_type: Text
 identifiers:
